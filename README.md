@@ -9,6 +9,8 @@
 - CSS
 - Javascript
 - React
+- Git/Github
+- Windows/Linux OS - currently use Manjaro as a main OS
 
 
 
