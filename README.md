@@ -1,5 +1,9 @@
 ### Hi there, I am Daniel 👋
 
+##### I am aspiring Frontend developer, currently part of Treehouse techdegree program
+
+
+
 <!--
 **virusxd521/virusxd521** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
