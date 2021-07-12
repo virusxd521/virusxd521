@@ -10,7 +10,7 @@
 - Javascript
 - React
 - Git/Github
-- Windows/Linux OS - currently use Manjaro as a main OS
+- :memo: Windows/Linux OS - currently using Manjaro as a main OS
 
 
 
