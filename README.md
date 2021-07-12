@@ -1,6 +1,15 @@
 ### Hi there, I am Daniel 👋
 
-##### I am aspiring Frontend developer, currently part of Treehouse techdegree program
+##### I am aspiring Frontend developer, currently part of Treehouse techdegree program.
+
+##### The main technologies i use are:
+
+- HTML
+- CSS
+- Javascript
+- React
+
+
 
 
 
