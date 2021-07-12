@@ -9,8 +9,8 @@
 - CSS
 - Javascript
 - React
-- Git/Github
-- :memo: Windows/Linux OS - currently using Manjaro as a main OS
+-  Git/Github
+- :computer: Windows/Linux OS - currently using Manjaro as a main OS
 
 
 
