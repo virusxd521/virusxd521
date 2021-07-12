@@ -6,9 +6,9 @@
 #### The main technologies i use are:
 
 - HTML
-- CSS
-- Javascript
-- React
+- :pencil: CSS
+- :zap: Javascript
+- :cyclone: React
 - :octocat: Git/Github
 - :computer: Windows/Linux OS - currently using Manjaro as a main OS
 
