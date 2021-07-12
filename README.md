@@ -1,6 +1,6 @@
-### Hi there, I am Daniel 👋
+## Hi there, I am Daniel Benisti 👋
 
-#### I am aspiring Frontend developer, currently part of Treehouse techdegree program.
+#### I am aspiring Frontend developer, currently part of Treehouse techdegree program. 
 <hr>
 #### The main technologies i use are:
 
