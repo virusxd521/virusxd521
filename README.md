@@ -9,7 +9,7 @@
 - CSS
 - Javascript
 - React
--  Git/Github
+- :octocat: Git/Github
 - :computer: Windows/Linux OS - currently using Manjaro as a main OS
 
 
