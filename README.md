@@ -5,7 +5,7 @@
 
 #### The main technologies i use are:
 
-- HTML
+- :bookmark_tabs: HTML
 - :pencil: CSS
 - :zap: Javascript
 - :cyclone: React
