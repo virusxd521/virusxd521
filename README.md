@@ -2,6 +2,7 @@
 
 #### I am aspiring Frontend developer, currently part of Treehouse techdegree program. 
 <hr>
+
 #### The main technologies i use are:
 
 - HTML
