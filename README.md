@@ -1,6 +1,6 @@
 ## Hi there, I am Daniel Benisti 👋
 
-#### I am aspiring Frontend developer, about to finish a coding bootcamp. 
+#### I am a junior Frontend developer, about to finish a coding bootcamp. 
 <hr>
 
 #### The main technologies i use are:
