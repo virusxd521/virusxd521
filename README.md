@@ -1,6 +1,6 @@
 ## Hi there, I am Daniel Benisti 👋
 
-#### I am a junior Frontend developer, about to finish a coding bootcamp. 
+#### A Junior Frontend developer which located in Prague. 
 <hr>
 
 #### The main technologies i use are:
