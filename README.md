@@ -1,6 +1,6 @@
 ## Hi there, I am Daniel Benisti 👋
 
-#### A Junior Frontend developer which located in Prague. 
+#### A Junior Frontend developer, located in Prague. 
 <hr>
 
 #### The main technologies i use are:
