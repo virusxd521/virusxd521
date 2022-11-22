@@ -1,6 +1,6 @@
 ## Hi there, I am Daniel Benisti 👋
 
-#### A Junior Frontend developer, located in Prague. 
+#### Frontend developer, resides in Prague. 
 <hr>
 
 #### The main technologies i use are:
@@ -10,7 +10,7 @@
 - :zap: Javascript
 - :cyclone: React
 - :octocat: Git/Github
-- :computer: Windows/Linux OS - currently using Manjaro as a main OS
+- :computer: Windows/Linux OS 
 
 
 
